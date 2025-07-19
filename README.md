@@ -2,6 +2,10 @@
 
 Forgetful is a simple yet challenging memory-based puzzle game where your brain is your only weapon. Designed to test short-term memory and pattern recognition, Forgetful pushes players to focus, remember, and react quickly under pressure.
 
+## 📸 Screenshots
+<img width="1920" height="1243" alt="Screenshot 2025-07-19 at 3 24 51 PM" src="https://github.com/user-attachments/assets/71a0fa79-ffd6-4bfc-9ce8-9b85e234657d" />
+
+
 ## 🎮 Gameplay
 
 - You are shown a pattern (grid, numbers, or icons) for a few seconds.
@@ -41,7 +45,6 @@ The `GameManager` handles:
 - Ensuring consistent control scheme logic
 - Singleton instance for global access
 
-## 📸 Screenshots
 
 
 
